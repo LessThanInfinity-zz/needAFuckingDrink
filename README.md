@@ -2,7 +2,7 @@
 
 <p>This site was made because I wanted to tinker with google maps - not quite get into the depths of it, but definitely to check out their api. I wanted something small to try out, and, on a thirsty Friday night, came across this site:</p>
 
-<a href="http://www.wtfsigfd.com/">Where the F*** should I go to drink</a>
+<a href="http://www.wtfsigfd.com/" target="_blank">Where the F*** should I go to drink</a>
 
 <p>The idea is simple: use your location to find bars nearby and plot a route. The idea is unchanged in my clone:</p>
 
